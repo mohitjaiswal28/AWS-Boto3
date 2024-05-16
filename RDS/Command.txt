@@ -1,0 +1,2 @@
+
+mysql -h "endpoint of rds db" -P 3306 -u "username" -p
